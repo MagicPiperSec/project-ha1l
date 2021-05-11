@@ -5,7 +5,7 @@ Project Ha1l - Release, FAQ, Issues, Wikis
 
 This Repo is used to upload binary releases, documents of Project Ha1l.
 
-You should follow the Issue And PR template before you submit it. Any invalid-formatted issue will be closed directly.
+You should follow the Issue And PR template before you submit it. Any invalid-formatted issue will be closed directly without further notice.
 
 The second time of directly-closed Issue or PR will lead to ban you forever.
 
